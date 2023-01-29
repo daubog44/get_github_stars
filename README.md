@@ -13,11 +13,11 @@ basic:
 specificando una data:
 
 ```
-./get_github_stars.exe --file-csv "percorso\file.csv" --token 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 --per-volta 100 --fino-alla-data 01/03/2021
+./get_github_stars.exe --file-csv "percorso\file.csv" --token il_tuo_token --per-volta 100 --fino-alla-data 01/03/2021
 ```
 
 senza data
 
 ```
-./get_github_stars.exe --file-csv "percorso\file.csv" --token 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 --per-volta 100
+./get_github_stars.exe --file-csv "percorso\file.csv" --token il_tuo_token --per-volta 100
 ```
